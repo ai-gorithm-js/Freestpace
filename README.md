@@ -1,6 +1,3 @@
-# freestpace
-Codename : Capitali
-
 # Description
 
 Freestpace stands for Free virtual space online that is turned into estate, so yea; in short build robots to build virtual houses and sell them,rent them for money.
