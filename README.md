@@ -5,6 +5,11 @@ Advanced programming project : Capitali
 
 Freestpace stands for Free virtual space online that is turned into estate, so yea; in short build robots to build virtual houses and sell them,rent them for money.
 
+
+
+Task 0: finish beginers project, then finish the intermediate programming project, then study for finals then prepare for task 1
+
+
 Task 1:
 
 rebuild 1x mirror gitfinder full stack
