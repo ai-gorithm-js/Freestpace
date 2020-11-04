@@ -8,6 +8,7 @@ Task 1:
 
 rebuild 1x mirror gitfinder full stack
 rebuild 200x mirror contact keeper fullstack with 100gmails
+build bots that can replicate the above with my one myraid outlook emails
 
 Task 2:
 
@@ -15,8 +16,14 @@ Insert 1000 mweb stands for (mirror webpackage extension bundles) insides each b
 
 Task 3:
 
-Build them into virtual houses and try to convince the people that actually lives in the real actual houses some form of reward for displaying their property.
+Build them into virtual houses and give it to the people that lives in the real actual houses for free because every open source is free resource.
+
+with the mwebs, build customized functions such as taking someone's restaurant orders taking your phone call for with, just watch black mirror.
 
 Task 4:
 
 Reach 1 dencillion bits free virtual space and build the entire montreal online.
+
+Task 5:
+
+extrapolate the tasks above into 5000 tasks
