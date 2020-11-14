@@ -30,3 +30,7 @@ Reach 1 dencillion bits free virtual space and build the entire montreal online.
 Task 5:
 
 extrapolate the tasks above into 5000 tasks
+
+# Bonus Features
+
+Provides unlimited virtual space to be used in asynchronously with the intermediary level programming project : [Command Center](https://github.com/ai-gorithm-js/CommandCenter) and the expert programming  project  : [Enigma](https://github.com/ai-gorithm-js/Enigma) 
